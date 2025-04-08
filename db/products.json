@@ -135,8 +135,10 @@
         "product": "Sofa",
         "img": {
           "thumbnailImg": [
-            "./imgs/sofas/Bubble_thumb1",
-            "./imgs/sofas/Bubble_thumb2"
+            "./imgs/sofas/Bubble_thumb1.jpeg",
+            "./imgs/sofas/Bubble_thumb2.jpeg",
+            "./imgs/sofas/Bubble_thumb3.jpeg",
+            "./imgs/sofas/Bubble_thumb4.jpeg"
           ],
           "backgroundImg": ["./imgs/sofas/Bubblemini_bg.jpeg"]
         },
@@ -183,9 +185,11 @@
         "img": {
           "thumbnailImg": [
             "./imgs/sofas/EDITO_thumb1.jpeg",
-            "./imgs/sofas/EDITO_thumb2.jpeg"
+            "./imgs/sofas/EDITO_thumb2.jpeg",
+            "./imgs/sofas/EDITO_thumb3.jpeg",
+            "./imgs/sofas/EDITO_thumb4.jpeg"
           ],
-          "backgroundImg": ["./imgs/sofas/utopie_exclusive_bg.jpeg"]
+          "backgroundImg": ["./imgs/sofas/EDITO_bg.jpeg"]
         },
         "info": {
           "code": 1008,
@@ -248,21 +252,21 @@
       },
 
       {
-        "title": "Amoebe",
+        "title": "AMOEBE",
         "desc_top": "Amoebe is an iconic chair with an organic shape.",
         "desc_fullView": "Amoebe is an iconic chair with an organic shape. The soft upholstery invites sitters to relax in its rounded contours, and the cover fabric comes in a wide selection of vibrant colours that add a bold accent to any lobby or lounge.",
         "price": 2100000,
         "product": "sofa",
         "img": {
           "thumbnailImg": [
-            "./imgs/sofas/6008_thumb1.jpg",
-            "./imgs/sofas/6008_thumb2.jpg",
-            "./imgs/sofas/6008_thumb3.jpg"
+            "./imgs/events/6008_thumb1.jpg",
+            "./imgs/events/6008_thumb2.jpg",
+            "./imgs/events/6008_thumb3.jpg"
           ],
           "backgroundImg": [
-            "./imgs/sofas/6008_bg1.jpg",
-            "./imgs/sofas/6008_bg2.jpg",
-            "./imgs/sofas/6008_bg3.jpg"
+            "./imgs/events/6008_bg1.jpg",
+            "./imgs/events/6008_bg2.jpg",
+            "./imgs/events/6008_bg3.jpg"
           ]
         },
         "info": {
@@ -276,19 +280,19 @@
         }
       },
       {
-        "title": "Organic Highback",
+        "title": "ORGANIC HIGHBACK",
         "desc_top": "The comfortably upholstered compact armchair with its strikingly shaped high seat shell is also available with a medium backrest the Organic Chair.",
         "desc_fullView": "Designed by Elias Klemens as part of their entry for 'Organic Design in Home Furnishings', a competition organised by the Museum of Modern Art in New York, Organic Highback is regarded as a classic. The comfortably upholstered compact armchair with its strikingly shaped high seat shell is also available with a medium backrest the Organic Chair or in the Organic Conference version for dining tables.",
         "price": 2100000,
         "product": "sofa",
         "img": {
           "thumbnailImg": [
-            "./imgs/sofas/6009_thumb1.jpg",
-            "./imgs/sofas/6009_thumb2.jpg"
+            "./imgs/events/6009_thumb1.jpg",
+            "./imgs/events/6009_thumb2.jpg"
           ],
           "backgroundImg": [
-            "./imgs/sofas/6009_bg1.jpg",
-            "./imgs/sofas/6009_bg2.jpg"
+            "./imgs/events/6009_bg1.jpg",
+            "./imgs/events/6009_bg2.jpg"
           ]
         },
         "info": {
@@ -310,8 +314,8 @@
         "price": 2000000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_1"],
-          "backgroundImg": ["./imgs/tables/Table_Background_1"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_1.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_1.jpg"]
         },
         "info": {
           "code": 2001,
@@ -328,8 +332,8 @@
         "price": 3500000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_2"],
-          "backgroundImg": ["./imgs/tables/Table_Background_2"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_2.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_2.jpg"]
         },
         "info": {
           "code": 2002,
@@ -346,8 +350,8 @@
         "price": 8490000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_3"],
-          "backgroundImg": ["./imgs/tables/Table_Background_3"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_3.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_3.jpg"]
         },
         "info": {
           "code": 2003,
@@ -365,8 +369,8 @@
         "price": 9500000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_4"],
-          "backgroundImg": ["./imgs/tables/Table_Background_4"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_4.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_4.jpg"]
         },
         "info": {
           "code": 2004,
@@ -384,8 +388,8 @@
         "price": 7200000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_5"],
-          "backgroundImg": ["./imgs/tables/Table_Background_5"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_5.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_5.jpg"]
         },
         "info": {
           "code": 2005,
@@ -402,8 +406,8 @@
         "price": 8800000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_6"],
-          "backgroundImg": ["./imgs/tables/Table_Background_6"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_6.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_6.jpg"]
         },
         "info": {
           "code": 2006,
@@ -420,8 +424,8 @@
         "price": 1020000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_7"],
-          "backgroundImg": ["./imgs/tables/Table_Background_7"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_7.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_7.jpg"]
         },
         "info": {
           "code": 2007,
@@ -438,8 +442,8 @@
         "price": 7900000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_8"],
-          "backgroundImg": ["./imgs/tables/Table_Background_8"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_8.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_8.jpg"]
         },
         "info": {
           "code": 2008,
@@ -456,8 +460,8 @@
         "price": 6800000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_9"],
-          "backgroundImg": ["./imgs/tables/Table_Background_9"]
+          "thumbnailImg": ["./imgs/tables/Table_Thumbnail_9.jpg"],
+          "backgroundImg": ["./imgs/tables/Table_Background_9.jpg"]
         },
         "info": {
           "code": 2009,
@@ -468,17 +472,17 @@
         }
       },
       {
-        "title": "Guéridon Bas",
+        "title": "GUÉRIDON BAS",
         "desc_top": "The round Guéridon Bas coffee table bears the distinctive signature of French designer and engineer Elias Klemens.",
         "desc_fullView": "The round Guéridon Bas coffee table bears the distinctive signature of French designer and engineer Elias Klemens. Available in different types of wood, the unassuming table lends itself to a wide range of interiors.",
         "price": 1300000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/tables/6003_thumb1.jpg"],
+          "thumbnailImg": ["./imgs/events/6003_thumb1.jpg.jpg"],
           "backgroundImg": [
-            "./imgs/tables/6003_bg1.jpg",
-            "./imgs/tables/6003_bg2.jpg",
-            "./imgs/tables/6003_bg3.jpg"
+            "./imgs/events/6003_bg1.jpg",
+            "./imgs/events/6003_bg2.jpg",
+            "./imgs/events/6003_bg3.jpg"
           ]
         },
         "info": {
@@ -491,20 +495,20 @@
         }
       },
       {
-        "title": "Plate Table",
+        "title": "PLATE TABLE",
         "desc_top": "The Plate Tables feature a felicitous interplay of subtly rounded contours and precisely defined edges.",
         "desc_fullView": "The Plate Tables by Elias Klemens feature a felicitous interplay of subtly rounded contours and precisely defined edges. They can be grouped together to form various coffee table configurations.",
         "price": 1600000,
         "product": "table",
         "img": {
           "thumbnailImg": [
-            "./imgs/tables/6010_thumb1.jpg",
-            "./imgs/tables/6010_thumb2.jpg",
-            "./imgs/tables/6010_thumb3.jpg"
+            "./imgs/events/6010_thumb1.jpg",
+            "./imgs/events/6010_thumb2.jpg",
+            "./imgs/events/6010_thumb3.jpg"
           ],
           "backgroundImg": [
-            "./imgs/tables/6010_bg1.jpg",
-            "./imgs/tables/6010_bg2.jpg"
+            "./imgs/events/6010_bg1.jpg",
+            "./imgs/events/6010_bg2.jpg"
           ]
         },
         "info": {
@@ -793,19 +797,19 @@
         }
       },
       {
-        "title": "Repos & Panchina",
+        "title": "REPOS & PANCHINA",
         "desc_top": "The Grand Repos wing chair by Antonio Citterio offers exceptional comfort, particularly when paired with Panchina.",
         "desc_fullView": "The Grand Repos wing chair by Antonio Citterio offers exceptional comfort, particularly when paired with Panchina. The synchronised mechanism concealed beneath the upholstery supports the user at every angle of inclination and can be locked in any position. Once the user is comfortably reclined, Panchina provides a soft foot rest for ultimate relaxation.",
         "price": 1800000,
         "product": "chair",
         "img": {
           "thumbnailImg": [
-            "./imgs/chairs/6001_thumb1.jpg",
-            "./imgs/chairs/6001_thumb2.jpg"
+            "./imgs/events/6001_thumb1.jpg",
+            "./imgs/events/6001_thumb2.jpg"
           ],
           "backgroundImg": [
-            "./imgs/chairs/6001_bg1.jpg",
-            "./imgs/chairs/6001_bg2.jpg"
+            "./imgs/events/6001_bg1.jpg",
+            "./imgs/events/6001_bg2.jpg"
           ]
         },
         "info": {
@@ -818,20 +822,20 @@
         }
       },
       {
-        "title": "Tabouret Métallique",
+        "title": "TABOURET MÉTALLIQUE",
         "desc_top": "The practical stool Tabouret Métallique, which can also be used as a small side table, exhibits structural affinities with the later Trapèze table.",
         "desc_fullView": "The practical stool Tabouret Métallique, which can also be used as a small side table, exhibits structural affinities with the later Trapèze table.",
         "price": 1100000,
         "product": "chair",
         "img": {
           "thumbnailImg": [
-            "./imgs/chairs/6002_thumb1.jpg",
-            "./imgs/chairs/6002_thumb2.jpg"
+            "./imgs/events/6002_thumb1.jpg",
+            "./imgs/events/6002_thumb2.jpg"
           ],
           "backgroundImg": [
-            "./imgs/chairs/6002_bg1.jpg",
-            "./imgs/chairs/6002_bg2.jpg",
-            "./imgs/chairs/6002_bg3.jpg"
+            "./imgs/events/6002_bg1.jpg",
+            "./imgs/events/6002_bg2.jpg",
+            "./imgs/events/6002_bg3.jpg"
           ]
         },
         "info": {
@@ -844,21 +848,21 @@
         }
       },
       {
-        "title": "Amoebe",
+        "title": "AMOEBE",
         "desc_top": "With its curving shapes and vivid colours, the Amoebe chair embodies the exuberant spirit of the early 1970s.",
         "desc_fullView": "With its curving shapes and vivid colours, the Amoebe chair embodies the exuberant spirit of the early 1970s.",
         "price": 1700000,
         "product": "chair",
         "img": {
           "thumbnailImg": [
-            "./imgs/chairs/6004_thumb1.jpg",
-            "./imgs/chairs/6004_thumb2.jpg",
-            "./imgs/chairs/6004_thumb3.jpg"
+            "./imgs/events/6004_thumb1.jpg",
+            "./imgs/events/6004_thumb2.jpg",
+            "./imgs/events/6004_thumb3.jpg"
           ],
           "backgroundImg": [
-            "./imgs/chairs/6004_bg1.jpg",
-            "./imgs/chairs/6004_bg2.jpg",
-            "./imgs/chairs/6004_bg3.jpg"
+            "./imgs/events/6004_bg1.jpg",
+            "./imgs/events/6004_bg2.jpg",
+            "./imgs/events/6004_bg3.jpg"
           ]
         },
         "info": {
@@ -871,20 +875,20 @@
         }
       },
       {
-        "title": "Visiona Stool",
+        "title": "VISIONA STOOL",
         "desc_top": "Elias Klemens designed the Visiona Stool as part of the interior installation created for his legendary Visiona exhibition in Cologne.",
         "desc_fullView": "Elias Klemens designed the Visiona Stool as part of the interior installation created for his legendary Visiona exhibition in Cologne. Available in a large palette of colours, the lightweight, comfortable stool has an unobtrusive geometric shape that can still be combined with a wide range of furnishings today.",
         "price": 1700000,
         "product": "chair",
         "img": {
           "thumbnailImg": [
-            "./imgs/chairs/6005_thumb1.jpg",
-            "./imgs/chairs/6005_thumb2.jpg"
+            "./imgs/events/6005_thumb1.jpg",
+            "./imgs/events/6005_thumb2.jpg"
           ],
           "backgroundImg": [
-            "./imgs/chairs/6005_bg1.jpg",
-            "./imgs/chairs/6005_bg2.jpg",
-            "./imgs/chairs/6005_bg3.jpg"
+            "./imgs/events/6005_bg1.jpg",
+            "./imgs/events/6005_bg2.jpg",
+            "./imgs/events/6005_bg3.jpg"
           ]
         },
         "info": {
@@ -897,17 +901,17 @@
         }
       },
       {
-        "title": "Cork Family, Model A",
+        "title": "CORK FAMILY, MODEL A",
         "desc_top": "The stools or side tables of the Cork Family by Elias Klemens are distinguished by the advantageous natural properties of cork.",
         "desc_fullView": "The stools or side tables of the Cork Family by Elias Klemens are distinguished by the advantageous natural properties of cork: lightweight and extremely durable, they also have a velvety surface that is pleasant to touch.",
         "price": 1000000,
         "product": "chair",
         "img": {
-          "thumbnailImg": ["./imgs/chairs/6006_thumb1.jpg"],
+          "thumbnailImg": ["./imgs/events/6006_thumb1.jpg"],
           "backgroundImg": [
-            "./imgs/chairs/6006_bg1.jpg",
-            "./imgs/chairs/6006_bg2.jpg",
-            "./imgs/chairs/6006_bg3.jpg"
+            "./imgs/events/6006_bg1.jpg",
+            "./imgs/events/6006_bg2.jpg",
+            "./imgs/events/6006_bg3.jpg"
           ]
         },
         "info": {
@@ -920,18 +924,18 @@
         }
       },
       {
-        "title": "Cork Family, Model B",
+        "title": "CORK FAMILY, MODEL B",
         "desc_top": "The stools or side tables of the Cork Family by Elias Klemens are distinguished by the advantageous natural properties of cork.",
         "desc_fullView": "The stools or side tables of the Cork Family by Elias Klemens are distinguished by the advantageous natural properties of cork: lightweight and extremely durable, they also have a velvety surface that is pleasant to touch.",
         "price": 1000000,
         "product": "chair",
         "img": {
-          "thumbnailImg": ["./imgs/chairs/6007_thumb1.jpg"],
+          "thumbnailImg": ["./imgs/events/6007_thumb1.jpg"],
           "backgroundImg": [
-            "./imgs/chairs/6007_bg1.jpg",
-            "./imgs/chairs/6007_bg2.jpg",
-            "./imgs/chairs/6007_bg3.jpg",
-            "./imgs/chairs/6007_bg4.jpg"
+            "./imgs/events/6007_bg1.jpg",
+            "./imgs/events/6007_bg2.jpg",
+            "./imgs/events/6007_bg3.jpg",
+            "./imgs/events/6007_bg4.jpg"
           ]
         },
         "info": {
@@ -1059,7 +1063,7 @@
         "price": 1400000,
         "product": "shelf",
         "img": {
-          "thumbnailImg": ["./imgs/shelves/dedale_thumb1"],
+          "thumbnailImg": ["./imgs/shelves/dedale_thumb1.jpg"],
           "backgroundImg": ["./imgs/shelves/dedale_bg1.jpg"]
         },
         "info": {
