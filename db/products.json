@@ -478,7 +478,7 @@
         "price": 1300000,
         "product": "table",
         "img": {
-          "thumbnailImg": ["./imgs/events/6003_thumb1.jpg.jpg"],
+          "thumbnailImg": ["./imgs/events/6003_thumb1.jpg"],
           "backgroundImg": [
             "./imgs/events/6003_bg1.jpg",
             "./imgs/events/6003_bg2.jpg",
