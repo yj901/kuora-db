@@ -24,7 +24,8 @@
           "size": "W.248 x H.80 x D.132cm",
           "materials": "fabric",
           "collection": "Sacha Lakic"
-        }
+        },
+        "best": true
       },
 
       {
@@ -99,7 +100,8 @@
           "size": "W.250xH.82xD.104cm",
           "materials": "fabric",
           "collection": "Jiang Qiong Er"
-        }
+        },
+        "best": true
       },
 
       {
@@ -321,7 +323,8 @@
           "color": "Calacatta Oro Brillant",
           "size": "W220 x H74.7 x D115 cm",
           "materials": "ceramic, glass"
-        }
+        },
+        "best": true
       },
       {
         "title": "ELANTA",
@@ -548,7 +551,8 @@
           "size": "W84 x H74 x D98 cm",
           "materials": "fabric",
           "collection": "Andrii Kovalskyi"
-        }
+        },
+        "best": true
       },
 
       {
@@ -971,7 +975,8 @@
           "color": "Brown",
           "size": "W270 x H232 x D30 cm",
           "materials": "wood"
-        }
+        },
+        "best": true
       },
       {
         "title": "FLAP",
@@ -1229,7 +1234,8 @@
           "color": "multicolored",
           "size": "W.230 x H.114 x D.248 cm",
           "materials": "wood, fabric"
-        }
+        },
+        "best": true
       },
       {
         "title": "BUBBLE",
