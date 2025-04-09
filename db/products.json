@@ -38,10 +38,9 @@
           "thumbnailImg": [
             "./imgs/sofas/Setup_thumb1.jpeg",
             "./imgs/sofas/Setup_thumb2.jpeg",
-            "./imgs/sofas/Setup_thumb3.jpeg",
-            "./imgs/sofas/Setup_thumb4.jpeg"
+            "./imgs/sofas/Setup_thumb3.jpeg"
           ],
-          "backgroundImg": ["./imgs/sofas/Setup_bg.jpeg"]
+          "backgroundImg": ["./imgs/sofas/SETUP_bg.jpeg"]
         },
         "info": {
           "code": 1002,
@@ -276,31 +275,6 @@
           "size": "W86 x H82 x D65 cm",
           "materials": "Volo",
           "seat_height": "35 cm",
-          "collection": "Elias Klemens"
-        }
-      },
-      {
-        "title": "ORGANIC HIGHBACK",
-        "desc_top": "The comfortably upholstered compact armchair with its strikingly shaped high seat shell is also available with a medium backrest the Organic Chair.",
-        "desc_fullView": "Designed by Elias Klemens as part of their entry for 'Organic Design in Home Furnishings', a competition organised by the Museum of Modern Art in New York, Organic Highback is regarded as a classic. The comfortably upholstered compact armchair with its strikingly shaped high seat shell is also available with a medium backrest the Organic Chair or in the Organic Conference version for dining tables.",
-        "price": 2100000,
-        "product": "sofa",
-        "img": {
-          "thumbnailImg": [
-            "./imgs/events/6009_thumb1.jpg",
-            "./imgs/events/6009_thumb2.jpg"
-          ],
-          "backgroundImg": [
-            "./imgs/events/6009_bg1.jpg",
-            "./imgs/events/6009_bg2.jpg"
-          ]
-        },
-        "info": {
-          "code": 6009,
-          "designer": "Elias Klemens",
-          "color": "grey",
-          "size": "W85 x H107 x D56 cm",
-          "materials": "fabric",
           "collection": "Elias Klemens"
         }
       }
@@ -597,7 +571,7 @@
             "./imgs/chairs/dot_thumb3.jpeg",
             "./imgs/chairs/dot_thumb4.jpeg"
           ],
-          "backgroundImg": ["/img/dot_bg.jpeg"]
+          "backgroundImg": ["/imgs/chairs/dot_bg.jpeg"]
         },
         "info": {
           "code": 3003,
@@ -796,6 +770,31 @@
           "size": "W91 x H67 x D84 cm",
           "materials": "leather",
           "collection": "Roberto Tapinassi & Maurizio Manzoni"
+        }
+      },
+      {
+        "title": "ORGANIC HIGHBACK",
+        "desc_top": "The comfortably upholstered compact armchair with its strikingly shaped high seat shell is also available with a medium backrest the Organic Chair.",
+        "desc_fullView": "Designed by Elias Klemens as part of their entry for 'Organic Design in Home Furnishings', a competition organised by the Museum of Modern Art in New York, Organic Highback is regarded as a classic. The comfortably upholstered compact armchair with its strikingly shaped high seat shell is also available with a medium backrest the Organic Chair or in the Organic Conference version for dining tables.",
+        "price": 2100000,
+        "product": "chair",
+        "img": {
+          "thumbnailImg": [
+            "./imgs/events/6009_thumb1.jpg",
+            "./imgs/events/6009_thumb2.jpg"
+          ],
+          "backgroundImg": [
+            "./imgs/events/6009_bg1.jpg",
+            "./imgs/events/6009_bg2.jpg"
+          ]
+        },
+        "info": {
+          "code": 6009,
+          "designer": "Elias Klemens",
+          "color": "grey",
+          "size": "W85 x H107 x D56 cm",
+          "materials": "fabric",
+          "collection": "Elias Klemens"
         }
       },
       {
