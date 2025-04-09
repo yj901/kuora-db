@@ -135,10 +135,8 @@
         "product": "Sofa",
         "img": {
           "thumbnailImg": [
-            "./imgs/sofas/Bubble_thumb1.jpeg",
-            "./imgs/sofas/Bubble_thumb2.jpeg",
-            "./imgs/sofas/Bubble_thumb3.jpeg",
-            "./imgs/sofas/Bubble_thumb4.jpeg"
+            "./imgs/sofas/Bubblemini_thumb1.jpeg",
+            "./imgs/sofas/Bubblemini_thumb2.jpeg"
           ],
           "backgroundImg": ["./imgs/sofas/Bubblemini_bg.jpeg"]
         },
