@@ -86,8 +86,7 @@
           "thumbnailImg": [
             "./imgs/sofas/Bamboo_thumb1.jpeg",
             "./imgs/sofas/Bamboo_thumb2.jpeg",
-            "./imgs/sofas/Bamboo_thumb3.jpeg",
-            "./imgs/sofas/Bamboo_thumb4.jpeg"
+            "./imgs/sofas/Bamboo_thumb3.jpeg"
           ],
           "backgroundImg": ["./imgs/sofas/Bamboo_bg.jpeg"]
         },
