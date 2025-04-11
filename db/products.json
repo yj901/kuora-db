@@ -591,8 +591,7 @@
           "thumbnailImg": [
             "./imgs/chairs/sira_thumb1.jpeg",
             "./imgs/chairs/sira_thumb2.jpeg",
-            "./imgs/chairs/sira_thumb3.jpeg",
-            "./imgs/chairs/sira_thumb4.jpeg"
+            "./imgs/chairs/sira_thumb3.jpeg"
           ],
           "backgroundImg": ["./imgs/chairs/sira_bg.jpeg"]
         },
