@@ -598,7 +598,9 @@
             "https://yj901.github.io/kuora-db/db/imgs/chairs/dot_thumb3.jpeg",
             "https://yj901.github.io/kuora-db/db/imgs/chairs/dot_thumb4.jpeg"
           ],
-          "backgroundImg": ["/imgs/chairs/dot_bg.jpeg"]
+          "backgroundImg": [
+            "https://yj901.github.io/kuora-db/db/imgs/chairs/dot_bg.jpeg"
+          ]
         },
         "info": {
           "code": 3003,
